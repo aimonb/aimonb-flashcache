@@ -10,8 +10,6 @@
 Puppet::Type.type(:flashcache_property).provide(:flashcache_property) do
   @doc = "Manage Flashcache properties"
 
-  commands :echo => "/bin/echo"
-
   def uuid
     resource[:uuid]
   end
