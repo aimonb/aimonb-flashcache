@@ -1,6 +1,6 @@
 # vim: tabstop=2 shiftwidth=2 softtabstop=2
 
-# Module: 'puppet-flashcache' A module for managing Flashcache
+# Module: 'aimonb-flashcache' A module for managing Flashcache
 # Author: Aimon Bustardo (me at aimon dot net)
 # Descr:  This module enables the management of Flashcache settings.
 #         It will put your flashcache uuid into a fact 'flashcache_uuid'
